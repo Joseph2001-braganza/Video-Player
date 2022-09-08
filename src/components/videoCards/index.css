@@ -1,0 +1,25 @@
+.colr{
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.rowEle{
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.lol{
+    font-weight: bolder;
+}
+.circle {
+    display: flex;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    padding: none;
+  }
+  .main-div{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  #backcol{
+    background-color: rgb(0, 138, 138);
+  }
